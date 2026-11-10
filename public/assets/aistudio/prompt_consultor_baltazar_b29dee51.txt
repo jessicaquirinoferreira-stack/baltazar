@@ -1,0 +1,909 @@
+# PROMPT MASTER — WEB DESIGNER AI PRO
+## SITE PREMIUM — CONSULTOR BALTAZAR | PLANOS DE SAÚDE, ODONTOLÓGICOS E SEGUROS
+
+Trabalhe como uma equipe de desenvolvimento digital de alto nível, composta por:
+- Desenvolvedor Full Stack Sênior.
+- Especialista em Frontend e React.
+- Especialista em UX/UI Design premium.
+- Especialista em branding e identidade visual.
+- Especialista em marketing digital.
+- Especialista em SEO.
+- Especialista em Firebase e arquitetura de sistemas.
+- Especialista em integrações, automações e captação de leads.
+
+Sua missão é desenvolver um SITE INSTITUCIONAL PREMIUM, completo, moderno e funcional para Diogo Baltazar, Consultor de Planos de Saúde e Seguros.
+
+O site será a principal presença digital profissional do consultor, apresentando seus serviços, opções de planos, operadoras, benefícios, campanhas, atendimento e canais de contato.
+
+ATENÇÃO: ESTE PROJETO NÃO É IMOBILIÁRIO. NÃO DEVE EXISTIR NENHUMA FUNCIONALIDADE, LINGUAGEM OU REFERÊNCIA A IMÓVEIS, CORRETAGEM IMOBILIÁRIA, EMPREENDIMENTOS IMOBILIÁRIOS OU VENDA DE CASAS.
+
+O produto principal é um SITE PÚBLICO PROFISSIONAL. O painel administrativo será exclusivamente uma área privada para gerenciar o conteúdo do site.
+
+---
+
+# 1. INVESTIGAÇÃO DO PERFIL E IDENTIDADE PROFISSIONAL
+
+Utilize como fonte principal o perfil:
+Instagram: https://www.instagram.com/consultor_baltazar/
+Usuário: @consultor_baltazar
+Nome apresentado: Baltazar_Consultor | Planos de Saúde - Niterói
+Nome profissional divulgado nas publicações: Diogo Baltazar.
+
+Analise as informações disponíveis no perfil, publicações, destaques, vídeos e links externos. Considere também as imagens de referência fornecidas pelo usuário.
+
+## Informações identificadas nas imagens
+
+- Nome profissional: Diogo Baltazar.
+- Marca comercial: Consultor Baltazar.
+- Instagram: @consultor_baltazar.
+- Área de atuação divulgada: Niterói.
+- Região de atendimento divulgada: RJ e SP.
+- Especialidade: Planos de Saúde e Seguros.
+- Público: Individual, familiar, PME e sênior.
+- Telefone comercial: (21) 96535-2050.
+- Facebook identificado: Diogo Baltazar.
+- WhatsApp divulgado: (21) 96535-2050.
+- Link de WhatsApp: https://wa.me/5521965352050
+
+## Posicionamento profissional identificado
+
+As publicações mostram os seguintes conceitos comerciais:
+- Especialista em planos de saúde e seguros.
+- Consultoria estratégica RJ | SP.
+- Economia inteligente.
+- Aproveitamento de carência.
+- Atendimento personalizado.
+- Segurança e tranquilidade.
+- Análise consultiva gratuita, conforme disponibilidade.
+- Soluções para pessoas físicas e empresas.
+- Planos para diferentes perfis e necessidades.
+- Consultoria para redução de custos.
+- Orientação na escolha de planos.
+
+Utilize esses conceitos para criar a comunicação institucional. Não transforme frases publicitárias em garantias de resultados.
+
+## Operadoras e marcas identificadas nas imagens
+
+As publicações apresentam referências a:
+- Amil.
+- Porto Saúde.
+- Bradesco Saúde.
+- SulAmérica.
+- Assim Saúde.
+- Hapvida.
+- Unimed.
+- Leve Saúde.
+- MedSênior.
+- Prevent Senior.
+- Select Saúde.
+- Supermed.
+- Omint.
+- Blue.
+- Samoc.
+- HSMED.
+
+Essas marcas devem ser tratadas como referências de operadoras, produtos ou redes divulgadas nos materiais enviados.
+
+Não afirmar que todas possuem parceria comercial ativa, disponibilidade atual ou contratação garantida pelo consultor.
+
+Antes de exibir qualquer operadora como opção efetivamente comercializada, permitir que o administrador confirme a disponibilidade, região, elegibilidade e condições vigentes.
+
+Não inventar contratos, credenciamentos, credenciais, autorizações ou vínculos comerciais.
+
+## Identidade visual observada
+
+As imagens mostram uma identidade visual baseada em:
+- Azul-marinho.
+- Dourado.
+- Branco.
+- Azul institucional.
+- Verde em elementos de contato e WhatsApp.
+
+O profissional aparece em fotografias com blazer azul-marinho, camisa branca e óculos, em ambiente profissional.
+
+Utilize as fotografias originais fornecidas pelo proprietário, quando disponibilizadas em qualidade adequada. As capturas de tela servem como referência visual e de conteúdo. Não utilize a captura inteira como se fosse uma fotografia profissional.
+
+Não altere a aparência do profissional por meio de imagens geradas por IA. Se forem necessários outros materiais, crie espaços reservados para o administrador enviar as imagens originais.
+
+---
+
+# 2. OBJETIVO DO SITE
+
+Construir uma presença digital que posicione o Consultor Baltazar como uma referência profissional em consultoria de planos de saúde e seguros.
+
+O site deverá:
+1. Apresentar profissionalmente Diogo Baltazar.
+2. Explicar os serviços oferecidos.
+3. Mostrar as modalidades de planos.
+4. Apresentar operadoras disponíveis.
+5. Facilitar a comparação de opções.
+6. Captar clientes interessados.
+7. Gerar contatos pelo WhatsApp.
+8. Receber solicitações de cotação.
+9. Captar empresas interessadas em planos PME.
+10. Atrair pessoas que procuram planos individuais e familiares.
+11. Atender o público sênior.
+12. Facilitar campanhas de marketing digital.
+13. Permitir criar páginas exclusivas para campanhas.
+14. Permitir gerenciar todo o conteúdo pelo painel administrativo.
+
+A prioridade é transformar visitantes em oportunidades reais de atendimento.
+
+---
+
+# 3. IDENTIDADE VISUAL PREMIUM
+
+Crie uma identidade visual moderna, sofisticada e institucional.
+
+## Paleta principal
+- Azul-marinho profundo: #071B35.
+- Azul institucional: #123D70.
+- Dourado elegante: #C8A45D.
+- Branco: #FFFFFF.
+- Cinza claro: #F3F5F8.
+- Verde WhatsApp: #20C66B.
+
+As cores deverão ser configuráveis no painel administrativo.
+
+O site deverá transmitir confiança, segurança, autoridade, credibilidade, sofisticação, atendimento humanizado e profissionalismo.
+
+Utilize tipografia moderna, títulos marcantes, fotografias profissionais, cards elegantes, ícones consistentes, bordas discretas, sombras suaves, espaçamentos generosos e animações refinadas.
+
+Evite aparência de site genérico de operadora de saúde. O site deve destacar a marca pessoal do Consultor Baltazar.
+
+---
+
+# 4. ESTRUTURA DO SITE PÚBLICO
+
+## 4.1 Página inicial
+
+Desenvolva uma homepage impactante.
+
+### Cabeçalho
+Incluir:
+- Logotipo Consultor Baltazar.
+- Início.
+- Planos de Saúde.
+- Planos Empresariais.
+- Planos Odontológicos.
+- Planos Sênior.
+- Seguros.
+- Operadoras.
+- Sobre.
+- Contato.
+- Botão destacado: Solicitar Cotação.
+
+No celular, utilizar menu moderno e responsivo.
+
+### Hero principal
+
+Utilize fotografia profissional de Diogo Baltazar.
+
+Título sugerido:
+“O plano de saúde ideal começa com uma boa orientação.”
+
+Texto:
+“Encontre soluções em planos de saúde e seguros com atendimento personalizado, análise das suas necessidades e orientação para escolher a opção mais adequada ao seu perfil.”
+
+Botões:
+- Solicitar minha cotação.
+- Falar com um consultor.
+
+Adicionar elementos de credibilidade e composição visual sofisticada.
+
+Não inserir números de clientes atendidos, anos de experiência ou certificações sem comprovação.
+
+### Seção de modalidades
+
+Criar cards para:
+1. Plano Individual.
+2. Plano Familiar.
+3. Plano Empresarial.
+4. Plano PME.
+5. Plano Sênior.
+6. Plano Odontológico.
+7. Seguros.
+
+Cada card terá descrição, ícone, botão e página específica.
+
+### Seção de diferenciais
+
+Destacar:
+- Consultoria personalizada.
+- Análise das necessidades.
+- Comparação de alternativas.
+- Orientação comercial.
+- Apoio no processo de contratação.
+- Atendimento humanizado.
+- Busca por economia e adequação ao perfil.
+
+### Seção de operadoras
+
+Exibir logotipos e informações das operadoras confirmadas pelo administrador. Permitir filtrar por modalidade e disponibilidade regional.
+
+### Seção de atendimento
+
+Mostrar:
+“Diogo Baltazar — Consultor de Planos de Saúde e Seguros”.
+
+Adicionar fotografia, apresentação, redes sociais e botão para contato.
+
+### Chamada final
+
+“Vamos encontrar uma opção que faça sentido para você?”
+
+Botão: Solicitar cotação pelo WhatsApp.
+
+### Rodapé
+
+Incluir marca, apresentação, modalidades, contato, WhatsApp, Instagram, Facebook, política de privacidade, termos de uso, informações regulatórias aplicáveis e link discreto e centralizado para Painel Admin.
+
+## 4.2 Páginas especializadas por modalidade
+
+Criar páginas próprias para cada serviço.
+
+### Planos individuais e familiares
+Apresentar:
+- Como funciona.
+- Quem pode contratar.
+- Diferenças entre modalidades.
+- Rede credenciada.
+- Coberturas.
+- Abrangência geográfica.
+- Carências.
+- Acomodação.
+- Coparticipação, quando aplicável.
+- Formulário de cotação.
+
+Não prometer aprovação, preço ou cobertura sem confirmação da operadora.
+
+### Planos empresariais e PME
+Título sugerido:
+“Sua empresa pode oferecer mais saúde, proteção e tranquilidade.”
+
+Apresentar planos empresariais, PME, soluções para empresas elegíveis, possibilidades para diferentes tamanhos de equipe, benefícios para colaboradores, análise consultiva e solicitação de proposta.
+
+Formulário:
+- Nome da empresa.
+- Nome do responsável.
+- CNPJ, opcional.
+- Quantidade de vidas.
+- Cidade.
+- Telefone.
+- E-mail.
+- Modalidade desejada.
+
+Não presumir que toda empresa ou MEI é elegível para qualquer produto.
+
+### Planos para o público sênior
+Criar página especial com linguagem clara, acolhedora e respeitosa.
+
+Apresentar opções destinadas ao público sênior, informações sobre contratação, abrangência, rede de atendimento, condições comerciais, orientação para familiares e solicitação de cotação.
+
+Utilizar letras confortáveis, navegação simples e botões grandes.
+
+Não afirmar que determinada operadora aceita qualquer idade sem verificar as regras atuais.
+
+### Planos odontológicos
+Apresentar modalidades, benefícios, coberturas, rede credenciada, condições e solicitação de cotação.
+
+### Seguros
+Criar página configurável para seguros disponibilizados pelo consultor. Permitir cadastrar categorias como seguro de vida, residencial, automóvel, empresarial e outros produtos confirmados.
+
+Não anunciar produtos que não estejam efetivamente disponíveis.
+
+---
+
+# 5. SISTEMA DE COTAÇÃO INTELIGENTE
+
+Desenvolver um sistema de solicitação de cotação.
+
+O visitante poderá selecionar:
+- Plano individual.
+- Plano familiar.
+- Plano empresarial.
+- Plano PME.
+- Plano sênior.
+- Plano odontológico.
+- Seguro.
+
+Solicitar somente informações necessárias.
+
+### Dados básicos
+- Nome.
+- Telefone.
+- E-mail.
+- Cidade.
+- Estado.
+- Modalidade desejada.
+- Quantidade de beneficiários.
+- Observações.
+
+Quando necessário, permitir informar faixas etárias dos beneficiários, sem solicitar dados médicos.
+
+Para empresas:
+- Nome empresarial.
+- Quantidade de funcionários ou vidas.
+- Cidade.
+- Responsável.
+- Telefone.
+- E-mail.
+
+### Resultado do envio
+1. Registrar o lead no Firebase.
+2. Registrar a origem da página.
+3. Registrar a modalidade desejada.
+4. Registrar data e horário.
+5. Exibir confirmação ao visitante.
+6. Oferecer contato pelo WhatsApp.
+7. Disponibilizar o lead no painel administrativo.
+
+Criar mensagem contextualizada para o WhatsApp.
+
+Exemplo:
+“Olá, Diogo! Acessei seu site e gostaria de receber uma cotação de plano de saúde.”
+
+Não apresentar valores automáticos como propostas reais sem integração oficial e dados atualizados.
+
+---
+
+# 6. PÁGINA DE OPERADORAS
+
+Criar um catálogo profissional de operadoras e produtos.
+
+O administrador poderá cadastrar:
+- Nome da operadora.
+- Logotipo.
+- Descrição.
+- Modalidades disponíveis.
+- Abrangência.
+- Região de atendimento.
+- Rede credenciada.
+- Diferenciais.
+- Documentos públicos.
+- Links oficiais.
+- Condições comerciais.
+- Status de disponibilidade.
+
+Permitir publicar, despublicar, editar, excluir, destacar e ordenar.
+
+As marcas identificadas nas imagens deverão poder ser cadastradas pelo administrador, mas somente serão apresentadas como opções disponíveis quando sua comercialização e elegibilidade forem confirmadas.
+
+Não reproduzir logotipos de maneira distorcida.
+
+Não sugerir que o Consultor Baltazar é representante oficial exclusivo de qualquer operadora sem comprovação.
+
+---
+
+# 7. PÁGINAS DE CAMPANHAS E LANDING PAGES
+
+Criar sistema para gerar páginas comerciais individuais.
+
+O administrador poderá selecionar uma modalidade, operadora ou campanha e gerar uma landing page.
+
+Exemplos:
+- /cotacao/plano-empresarial
+- /cotacao/plano-familiar
+- /cotacao/plano-senior
+- /campanha/plano-odontologico
+
+Cada página deverá possuir:
+- Banner personalizado.
+- Título.
+- Texto comercial.
+- Imagens.
+- Benefícios confirmados.
+- Modalidades.
+- Formulário.
+- WhatsApp.
+- Botão de conversão.
+- SEO.
+- Compartilhamento social.
+- Rastreamento de campanhas.
+
+Permitir criar, editar, duplicar, publicar, despublicar e excluir páginas.
+
+Permitir copiar o link público para campanhas de Instagram, Facebook, WhatsApp e Google Ads.
+
+---
+
+# 8. PAINEL ADMINISTRATIVO
+
+Criar painel privado acessado pelo link discreto “Painel Admin”.
+
+O painel será responsável por controlar integralmente o site.
+
+## Acesso inicial
+
+E-mail inicial: admin@x.com  
+Senha inicial: admin4321
+
+Essas credenciais devem servir somente para provisionar o primeiro administrador.
+
+Não gravar senha no frontend, no código-fonte público ou em arquivos versionados.
+
+Criar o usuário de forma segura pelo Firebase Authentication, atribuir permissão administrativa no servidor e exigir troca da senha no primeiro acesso.
+
+## Dashboard
+
+Apresentar:
+- Visitantes.
+- Visualizações.
+- Leads.
+- Cotações solicitadas.
+- Cliques no WhatsApp.
+- Modalidades mais procuradas.
+- Operadoras mais consultadas.
+- Landing pages mais acessadas.
+- Taxa de conversão.
+- Origem dos visitantes.
+- Desempenho de campanhas.
+
+Criar gráficos por período.
+
+## Gerenciamento de conteúdo
+
+Permitir alterar:
+- Textos.
+- Títulos.
+- Banners.
+- Fotografias.
+- Logotipo.
+- Cores.
+- Tipografia.
+- Links.
+- Telefones.
+- WhatsApp.
+- Redes sociais.
+- Informações profissionais.
+- Serviços.
+- Modalidades.
+- Operadoras.
+- Campanhas.
+- Perguntas frequentes.
+- Rodapé.
+
+Todas as alterações deverão atualizar o site público.
+
+## Gerenciamento de leads
+
+Criar central de atendimento para visualizar, pesquisar, filtrar, abrir detalhes, registrar observações, atualizar status, exportar relatórios e identificar modalidade, origem e campanha.
+
+Status sugeridos:
+- Novo.
+- Em atendimento.
+- Aguardando retorno.
+- Cotação enviada.
+- Em negociação.
+- Convertido.
+- Não convertido.
+
+## Gerenciamento de campanhas
+
+Permitir criar campanhas, alterar banners, definir datas, ativar, desativar, acompanhar visualizações, acompanhar leads e comparar conversões.
+
+---
+
+# 9. FIREBASE AUTHENTICATION E FIRESTORE
+
+Utilizar Firebase como infraestrutura de dados.
+
+### Authentication
+Implementar:
+- Login.
+- Logout.
+- Recuperação de senha.
+- Sessão segura.
+- Proteção de rotas.
+- Controle de permissões.
+- Acesso administrativo.
+
+### Firestore
+
+Criar coleções organizadas:
+- siteSettings
+- professionalProfile
+- services
+- healthPlans
+- insuranceProducts
+- operators
+- campaigns
+- landingPages
+- leads
+- testimonials
+- analytics
+- adminUsers
+
+Criar regras de segurança.
+
+Visitantes poderão acessar apenas conteúdo público publicado.
+
+Apenas administradores autorizados poderão modificar conteúdo.
+
+Validar permissões no servidor.
+
+Não utilizar chaves privadas no frontend.
+
+---
+
+# 10. VERCEL BLOB — ARQUIVOS E IMAGENS
+
+Utilizar Vercel Blob para armazenar:
+- Fotografias de Diogo Baltazar.
+- Logotipo.
+- Banners.
+- Imagens de campanhas.
+- Logotipos de operadoras autorizados.
+- Materiais informativos.
+- Documentos públicos.
+- Vídeos compatíveis.
+
+Criar gerenciador de arquivos no painel.
+
+Permitir upload individual e múltiplo, pré-visualização, exclusão, substituição, organização por pastas ou categorias e seleção de imagem principal.
+
+Utilizar upload seguro autorizado pelo servidor.
+
+Não expor tokens privados.
+
+Armazenar no Firestore os metadados e as URLs dos arquivos.
+
+---
+
+# 11. CAPTAÇÃO, ANALYTICS E GOOGLE
+
+Implementar rastreamento de:
+- Acessos à homepage.
+- Acessos às páginas de serviços.
+- Consultas de modalidades.
+- Visualizações de operadoras.
+- Cliques em cotação.
+- Cliques no WhatsApp.
+- Envios de formulários.
+- Conversões.
+- Origem de tráfego.
+- UTMs.
+
+Preparar integração com:
+- Google Analytics 4.
+- Google Tag Manager.
+- Google Search Console.
+- Google Ads.
+
+Preparar recebimento de leads de formulários oficiais de anúncios quando houver credenciais e permissões.
+
+Não afirmar que é possível descobrir automaticamente a identidade de todas as pessoas que pesquisam planos de saúde no Google.
+
+Registrar somente dados obtidos legitimamente, mediante interação e observando consentimento e LGPD.
+
+---
+
+# 12. WEB DESIGNER AI PRO — BIBLIOTECAS VISUAIS
+
+Trabalhe como desenvolvedor frontend sênior especializado em sites premium.
+
+Utilize como fontes de componentes e efeitos visuais:
+
+React Bits: https://www.reactbits.dev/  
+Magic UI: https://magicui.design/  
+Aceternity UI: https://ui.aceternity.com/  
+21st.dev: https://21st.dev/
+
+Consulte as bibliotecas para encontrar e incorporar componentes reais aos projetos.
+
+Sempre procure adicionar, quando fizer sentido:
+1. Animações profissionais de entrada e saída.
+2. Efeitos de partículas e iluminação.
+3. Textos animados e efeitos de digitação.
+4. Efeitos 3D e parallax.
+5. Fundos animados e gradientes dinâmicos.
+6. Botões interativos com efeitos especiais.
+7. Cards com animações ao passar o mouse.
+8. Animações durante a rolagem da página.
+9. Menus modernos e interativos.
+10. Transições suaves entre seções.
+
+### Regras obrigatórias
+- Não quero apenas imitações dos efeitos.
+- Sempre que possível, utilize os componentes originais das bibliotecas.
+- Consulte a documentação oficial.
+- Analise a tecnologia do projeto antes de instalar dependências.
+- Adapte os componentes ao código existente.
+- Não remova funcionalidades já implementadas.
+- Não quebre a versão mobile.
+- Evite efeitos que deixem o site lento.
+- Utilize componentes gratuitos quando possível.
+- Não instale tudo indiscriminadamente.
+- Escolha os efeitos que combinam com o projeto.
+- Teste todos os componentes após a instalação.
+
+Quero um site com aparência de projeto premium, moderno, sofisticado e profissional.
+
+### Efeitos que combinam com este projeto
+
+Utilize com moderação:
+- Hero animado.
+- Texto com entrada progressiva.
+- Gradientes elegantes.
+- Partículas sutis.
+- Iluminação em botões.
+- Cards interativos.
+- Animações de rolagem.
+- Transições suaves.
+- Revelação de fotografias.
+- Contadores animados.
+- Microinterações.
+- Menus sofisticados.
+
+Evite efeitos excessivos em formulários e informações importantes.
+
+---
+
+# 13. CATÁLOGO PERMANENTE DE COMPONENTES
+
+Criar obrigatoriamente o arquivo WEB_DESIGNER_SKILLS.md.
+
+O documento deverá registrar:
+- Bibliotecas utilizadas.
+- Links oficiais.
+- Componentes instalados.
+- Categorias.
+- Descrição.
+- Dependências.
+- Instruções de utilização.
+- Exemplos.
+- Compatibilidade.
+- Efeitos disponíveis.
+- Recomendações.
+- Componentes futuros.
+
+Organizar por:
+1. Hero e banners.
+2. Navegação.
+3. Botões.
+4. Cards.
+5. Formulários.
+6. Animações.
+7. Fundos animados.
+8. Efeitos 3D.
+9. Tipografia.
+10. Galerias.
+11. Gráficos.
+12. Componentes de planos de saúde.
+13. Componentes administrativos.
+14. Componentes de conversão.
+
+---
+
+# 14. RESPONSIVIDADE
+
+O site deverá funcionar perfeitamente em Android, iPhone, tablets, notebooks, desktops e monitores grandes.
+
+Prioridade absoluta para dispositivos móveis.
+
+Garantir:
+- Menu adaptado.
+- Botões grandes.
+- Formulários fáceis.
+- Imagens responsivas.
+- Tipografia legível.
+- Cards organizados.
+- WhatsApp acessível.
+- Navegação intuitiva.
+- Sem elementos cortados.
+- Sem rolagem horizontal indevida.
+
+Criar acessibilidade adequada, inclusive para pessoas com menor familiaridade tecnológica.
+
+---
+
+# 15. SEO E PRESENÇA DIGITAL
+
+Implementar:
+- Títulos personalizados.
+- Descrições.
+- URLs amigáveis.
+- Sitemap.
+- Robots.txt.
+- Open Graph.
+- Imagens para compartilhamento.
+- Dados estruturados adequados.
+- Canonical URLs.
+- Otimização de imagens.
+- Links internos.
+- SEO por modalidade.
+- SEO por operadora.
+- SEO por campanha.
+
+Trabalhar termos relevantes, conforme as regiões realmente atendidas:
+- Consultor de planos de saúde em Niterói.
+- Planos de saúde em Niterói.
+- Planos de saúde no Rio de Janeiro.
+- Planos empresariais.
+- Planos PME.
+- Planos familiares.
+- Planos sênior.
+- Planos odontológicos.
+- Consultoria de planos de saúde.
+
+Não criar endereços físicos ou áreas de atendimento sem confirmação.
+
+---
+
+# 16. LGPD, SEGURANÇA E RESPONSABILIDADE COM DADOS
+
+Este projeto trabalha com informações relacionadas à saúde e seguros.
+
+Portanto:
+- Não solicitar informações médicas desnecessárias.
+- Não solicitar diagnósticos.
+- Não solicitar histórico clínico em formulários comuns.
+- Não armazenar dados sensíveis sem necessidade e base legal adequada.
+- Implementar política de privacidade.
+- Implementar aviso de cookies quando aplicável.
+- Proteger formulários contra spam.
+- Validar entradas no backend.
+- Proteger dados dos leads.
+- Controlar permissões.
+- Registrar operações administrativas relevantes.
+
+Não utilizar dados pessoais de visitantes para publicidade sem base legal adequada.
+
+As informações sobre planos, coberturas, carências, rede credenciada, preços e condições devem ser verificadas antes da publicação.
+
+Não garantir aprovação, aceitação, cobertura, economia ou ausência de carência.
+
+Não utilizar expressões como “cobertura garantida” ou “sem carência” sem comprovação das condições específicas do produto.
+
+Não publicar informações que possam induzir o consumidor ao erro.
+
+---
+
+# 17. TECNOLOGIAS E DEPLOY
+
+Desenvolver utilizando arquitetura moderna e compatível com Google AI Studio e Vercel.
+
+Tecnologias principais:
+- React.
+- TypeScript.
+- Tailwind CSS ou CSS moderno.
+- Firebase Authentication.
+- Firebase Firestore.
+- Vercel Blob.
+- APIs seguras no backend.
+- Bibliotecas visuais selecionadas.
+
+Preparar:
+- package.json.
+- Arquivos de configuração.
+- Variáveis de ambiente de exemplo.
+- Backend.
+- Rotas.
+- Integrações.
+- Configuração de build.
+- Configuração de deploy.
+- Documentação.
+
+Criar README.md explicando:
+1. Como instalar.
+2. Como configurar Firebase.
+3. Como configurar Firestore.
+4. Como configurar Vercel Blob.
+5. Como configurar variáveis de ambiente.
+6. Como provisionar o administrador.
+7. Como executar localmente.
+8. Como publicar na Vercel.
+9. Como conectar domínio.
+10. Como testar integrações.
+
+Não expor credenciais reais.
+
+---
+
+# 18. TESTES OBRIGATÓRIOS
+
+Antes de finalizar, testar:
+- Homepage.
+- Todas as páginas.
+- Menu.
+- Links.
+- Botões.
+- Formulários.
+- WhatsApp.
+- Cadastro de operadoras.
+- Cadastro de serviços.
+- Cadastro de campanhas.
+- Landing pages.
+- Upload de imagens.
+- Login administrativo.
+- Recuperação de senha.
+- Controle de permissões.
+- Registro de leads.
+- Relatórios.
+- SEO.
+- Responsividade.
+- Segurança.
+- Build de produção.
+
+Corrigir os erros encontrados.
+
+Não simular integrações como se estivessem funcionando.
+
+Quando faltar uma credencial externa, deixar a integração preparada e documentar o que precisa ser configurado.
+
+---
+
+# 19. ORDEM DE EXECUÇÃO DO PROJETO
+
+Execute o trabalho seguindo esta sequência:
+
+FASE 1 — IDENTIDADE E PESQUISA  
+Analisar o Instagram, as imagens fornecidas, a identidade visual e as informações profissionais.
+
+FASE 2 — BRANDING  
+Criar a identidade digital do Consultor Baltazar.
+
+FASE 3 — SITE PÚBLICO  
+Desenvolver a homepage, páginas de modalidades, operadoras, serviços e contato.
+
+FASE 4 — SISTEMA DE COTAÇÃO  
+Implementar formulários e captação de leads.
+
+FASE 5 — FIREBASE E BLOB  
+Implementar banco de dados, autenticação e armazenamento de arquivos.
+
+FASE 6 — PAINEL ADMINISTRATIVO  
+Criar controle completo do conteúdo do site.
+
+FASE 7 — LANDING PAGES  
+Implementar criação de páginas comerciais compartilháveis.
+
+FASE 8 — ANALYTICS  
+Implementar relatórios, campanhas e métricas.
+
+FASE 9 — DESIGN PREMIUM  
+Incorporar componentes das bibliotecas visuais e animações.
+
+FASE 10 — TESTES E PUBLICAÇÃO  
+Testar, corrigir e preparar a publicação na Vercel.
+
+Não pare na criação de um protótipo visual.
+
+Não entregue apenas uma homepage estática.
+
+Não deixe funcionalidades importantes como botões sem ação.
+
+Não utilize conteúdo fictício para preencher o projeto.
+
+---
+
+# 20. RESULTADO FINAL ESPERADO
+
+Entregar um site premium completo para:
+
+CONSULTOR BALTAZAR — DIOGO BALTAZAR
+
+Especializado em:
+- Planos de saúde.
+- Planos familiares.
+- Planos empresariais.
+- Planos PME.
+- Planos sênior.
+- Planos odontológicos.
+- Seguros.
+- Consultoria personalizada.
+
+Contato divulgado:
+WhatsApp: (21) 96535-2050
+
+Instagram:
+@consultor_baltazar
+
+Região divulgada:
+Niterói — atendimento anunciado para RJ e SP.
+
+O resultado deverá ser um site elegante, moderno, confiável, rápido, responsivo e preparado para transformar visitantes em clientes.
+
+Deverá possuir painel administrativo completo, Firebase, Vercel Blob, sistema de cotação, gestão de conteúdo, operadoras, campanhas, landing pages, relatórios e integrações.
+
+A prioridade absoluta é construir uma presença digital de alto padrão para o Consultor Baltazar, valorizando sua imagem profissional, facilitando a escolha de planos de saúde e aumentando a geração de oportunidades comerciais.

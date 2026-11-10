@@ -1,0 +1,6 @@
+{
+  "name": "Consultor Baltazar - Planos de Saúde e Seguros",
+  "description": "Site institucional premium e consultoria especializada em planos de saúde, odontológicos e seguros para Diogo Baltazar (RJ e SP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

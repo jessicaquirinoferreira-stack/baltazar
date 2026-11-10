@@ -1,0 +1,84 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Default deny all
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && (
+        request.auth.token.email == 'jessicaq2204@gmail.com' ||
+        request.auth.token.email == 'admin@x.com' ||
+        exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+      );
+    }
+
+    function isValidLead(data) {
+      return data.keys().hasAll(['name', 'phone', 'planType', 'status'])
+        && data.name is string && data.name.size() > 0 && data.name.size() <= 150
+        && data.phone is string && data.phone.size() > 0 && data.phone.size() <= 50
+        && data.planType is string && data.planType.size() <= 100
+        && data.status is string && data.status.size() <= 50;
+    }
+
+    function isValidAnalytics(data) {
+      return data.keys().hasAll(['eventType', 'path'])
+        && data.eventType is string && data.eventType.size() <= 60
+        && data.path is string && data.path.size() <= 200;
+    }
+
+    // Site Settings (Public Read, Admin Write)
+    match /siteSettings/{settingId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Operators Catalog (Public Read, Admin Write)
+    match /operators/{operatorId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Campaigns (Public Read, Admin Write)
+    match /campaigns/{campaignId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Leads & Quotations (Public Create, Admin Read/Update/Delete)
+    match /leads/{leadId} {
+      allow read, update, delete: if isAdmin();
+      allow create: if isValidId(leadId) && isValidLead(request.resource.data);
+    }
+
+    // Analytics Events (Public Create for tracking, Admin Read)
+    match /analyticsEvents/{eventId} {
+      allow read: if isAdmin();
+      allow create: if isValidId(eventId) && isValidAnalytics(request.resource.data);
+      allow update, delete: if isAdmin();
+    }
+
+    // Admin Users Collection
+    match /admins/{adminId} {
+      allow read, write: if isAdmin();
+    }
+  }
+}
